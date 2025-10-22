@@ -5,9 +5,6 @@ int main()
     for (int i = 0; i < 26; i++)
     {
         alphavit[i] = 'a' + i;
-    }
-    for (int i = 0; i < 26; i++)
-    {
         printf("%c ", alphavit[i]);
     }
     return 0;
