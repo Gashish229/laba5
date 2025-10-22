@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
     char alphavit[26];
     for (int i = 0; i < 26; i++)
